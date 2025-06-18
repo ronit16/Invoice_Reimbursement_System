@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+PyPDF2
+chromadb
+sentence-transformers
+transformers
+torch
+python-dotenv
+requests
+numpy
+pandas
+google-generativeai
